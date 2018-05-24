@@ -22,7 +22,7 @@
             <a href="/QLNS3/thempb"><button class="btn btn-success">Thêm</button></a>
             <div class="panel panel-primary">
               <div class="panel-heading">
-                <h3 class="panel-title">Danh sách tài khoản</h3>
+                <h3 class="panel-title">Danh sách phòng ban</h3>
 
               </div>
               <div class="panel-body">

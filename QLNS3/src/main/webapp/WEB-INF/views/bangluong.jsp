@@ -8,7 +8,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Quản Lý Tài Khoản</title>
+<title>Quản Lý Lương</title>
 <link href="/QLNS3/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <link href="/QLNS3/resources/css/stylesTK.css" rel="stylesheet">
 </head>
