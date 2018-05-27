@@ -20,7 +20,7 @@
             <a href="/QLNS3/themcv"><button class="btn btn-success">Thêm</button></a>
             <div class="panel panel-primary">
               <div class="panel-heading">
-                <h3 class="panel-title">Danh sách chức vụ</h3>
+                <h3 class="panel-title">Danh sách tài khoản</h3>
 
               </div>
               <div class="panel-body">
